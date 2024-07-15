@@ -14,7 +14,7 @@ Pensei numa ideia básica, preparei um resumo e pedi ao ChatGPT que gerasse uma 
 ## 🚀 Resultados
 O arquivo PDF gerado consiste num livro de 15 páginas (contando com a capa) que conta a pequena aventura de Sofia ajudando o filhote de capivara perdido a encontrar seus parentes. Todas as páginas são ilustradas em cor, num estilo baseado em ilustrações tradicionais feitas com lápis de cor.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/afgcor/lab-natty-or-not/blob/main/Sofi%20%26%20Capi.pdf)
 
 ## 💭 Reflexão
 A criação deste e-book foi interessante, embora seja necessário refletir acerca das questões éticas e dos direitos autorais dos artistas e demais criadores cujos trabalhos são utilizados para alimentar os bancos de dados das IAs generativas. O uso indiscriminado e sem autorização destes materiais tem o potencial de gerar consequências indesejáveis.
