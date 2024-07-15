@@ -5,7 +5,7 @@ Com o auxílio de ferramentas de Inteligência Artificial, este desafio resultou
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para criação da história a partir do prompt informado;
-- IA Generativa **[Leonardo AI](https://designer.microsoft.com/image-creator)** para gerar as ilustrações utilizadas, também a partir de prompts específicos baseados na trama;
+- IA Generativa **[Microsoft Designer](https://designer.microsoft.com/image-creator)** para gerar as ilustrações utilizadas, também a partir de prompts específicos baseados na trama;
 - Ferramenta **Canva** para montagem do e-book.
 
 ## 🧐 Processo de Criação
